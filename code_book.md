@@ -28,7 +28,7 @@ All measurements appear to be floating point numbers in the range (-1, 1).
 
 >laying
 
-The script finally creates an independent tidy data set with the average of each measurement for each activity and each subject.
+* The script finally creates an independent tidy data set with the average of each measurement for each activity and each subject.
 The result is saved as data_set_with_the_averages.txt, a data frame,where the first column contains subject IDs,the second column contains activity names,
 and then the averages for each of the 66 attributes are in columns 3...68.
 There are 30 subjects and 6 activities, thus 180 rows in this data set with averages.
